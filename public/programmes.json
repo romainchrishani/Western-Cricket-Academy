@@ -1,0 +1,65 @@
+
+[
+  {
+      "id": 2,
+      "name": "Western Heat in Winter – Indoor fitness &amp; training in groups (Please register)",
+      "description": "This indoor program focuses on group fitness and cricket training during the off-season.Players engage in structured sessions that enhance both physical fitness and technicalskills, preparing them for the outdoor season. It’s an excellent way to stay in form anddevelop new strategies in a supportive, team-focused environment.",
+      "image1": "https://images.pexels.com/photos/27594282/pexels-photo-27594282/free-photo-of-a-young-boy-wearing-a-cricket-helmet.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "schedule": "Tuesdays and Thursdays from 5 PM to 7 PM",
+      "coaches": [
+        {
+          "name": "David Wilson",
+          "image": "david_wilson.jpg"
+        },
+        {
+          "name": "Sara Khan",
+          "image": "sara_khan.jpg"
+        }
+      ],
+      "price": 120,
+      "duration": "8 weeks",
+      "availableSeats": 12
+    },
+    {
+      "id": 3,
+      "name": "Individual Training",
+      "description": "Tailored to each player’s unique needs, our one-on-one coaching program is designed tofine-tune specific skills. Whether a player needs to improve their batting, bowling, oroverall game, this personalized approach ensures focused attention and rapid progress.",
+      "image1": "https://images.pexels.com/photos/4823713/pexels-photo-4823713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "schedule": "Tuesdays and Thursdays from 5 PM to 7 PM",
+      "coaches": [
+        {
+          "name": "David Wilson",
+          "image": "david_wilson.jpg"
+        },
+        {
+          "name": "Sara Khan",
+          "image": "sara_khan.jpg"
+        }
+      ],
+      "price": 120,
+      "duration": "8 weeks",
+      "availableSeats": 12
+    },
+    {
+      "id": 3,
+      "name": "Unlock the game for free! Register your school or college for our cricket programs today",
+      "description": "To register for free cricket programs for your school or college, please send us your inquiries through the 'Contact Us' option",
+      "image1": "https://images.pexels.com/photos/2549230/pexels-photo-2549230.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "schedule": "Tuesdays and Thursdays from 5 PM to 7 PM",
+      "coaches": [
+        {
+          "name": "David Wilson",
+          "image": "david_wilson.jpg"
+        },
+        {
+          "name": "Sara Khan",
+          "image": "sara_khan.jpg"
+        }
+      ],
+      "price": 120,
+      "duration": "8 weeks",
+      "availableSeats": 12
+    }
+ 
+  ]
+

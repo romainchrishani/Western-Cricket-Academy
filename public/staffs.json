@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Don Dilshan",
+      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+      "designation": "Head Coach (ICC Level II Coach)",
+      "description":"Our head coach brings a wealth of experience and passion to the game. With a backgroundin professional cricket, he has honed his skills both as a player and as a mentor. His focus ison fostering talent, instilling discipline, and nurturing a love for the sport in every player heworks with. Whether coaching beginners or refining the skills of seasoned athletes, he isdedicated to helping players achieve their full potential on and off the field.",
+      "experience": 10,
+      "ratings": 4.8
+    },
+    {
+      "name": "Ruvindu Gunasekara",
+      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+      "designation": "Coach",
+      "description":"Represented National team of Canada. Specialising in : Batting and Bawling",
+      "experience": 10,
+      "ratings": 4.8
+    },
+    {
+      "name": "Danuka Pathirana",
+      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+      "designation": "Coach",
+      "description":"Represented National team of Canada & amp. National team of Sri Lanka Under 19. Specialising in : Batting and Bawling. High Performance Program.",
+      "experience": 10,
+      "ratings": 4.8
+    },
+    {
+      "name": "Sriram Akam",
+      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+      "designation": "Assistant Coach (ICC Level I Coach)",
+      "description":"Specialising in : Batting for Junior players, Bawlling",
+      "experience": 10,
+      "ratings": 4.8
+    }
+    
+    
+  ]
