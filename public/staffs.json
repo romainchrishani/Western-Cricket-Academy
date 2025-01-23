@@ -1,7 +1,7 @@
 [
     {
       "name": "Don Dilshan",
-      "image": "/src/assets/OurTeam/Dilshan Appuhamy.png",
+      "image": "/assets/OurTeam/Dilshan Appuhamy.png",
       "designation": "Board of Directors / Head Coach & Academy Developer / Major League Captain ",
       "description":"Our head coach brings a wealth of experience and passion to the game. With a backgroundin professional cricket, he has honed his skills both as a player and as a mentor. His focus is on fostering talent, instilling discipline, and nurturing a love for the sport in every player he works with. Whether coaching beginners or refining the skills of seasoned athletes, he is dedicated to helping players achieve their full potential on and off the field.",
       "experience": 10,
@@ -25,7 +25,7 @@
     },
     {
       "name": "Sriram Akam",
-      "image": "/src/assets/OurTeam/Sriram.jpg",
+      "image": "/assets/OurTeam/Sriram.jpg",
       "designation": "Assistant Coach (ICC Level I Coach)",
       "description":"Specialising in : Batting and Bowling coaching for senior players alongside with the head coach",
       "experience": 10,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Merita Perera",
-    "image": "/src/assets/OurTeam/Merita Perera.jpg",
+    "image": "/assets/OurTeam/Merita Perera.jpg",
     "designation": "Board Of Directors",
     "description":"Results-driven Accounting Professional with a strong background in Accounting and Finance complemented by CIMA-UK (Chartered Institute of Management Accountants) qualification. Proven track record of delivering accurate and timely Financial Information, ensuring compliance with Accounting Standards.",
     "experience": 10,
@@ -65,7 +65,7 @@
   },
   {
     "name": "Kalana Kumarawadu",
-    "image": "/src/assets/OurTeam/Kalana Kumarawadu.jpg",
+    "image": "/assets/OurTeam/Kalana Kumarawadu.jpg",
     "designation": "Digital Marketing Specialist",
     "description":"An experienced IT professional majoring in software quality assurance along with digital media. Cricket has also been a major part of his life where he was part of the school, university, Sri Lanka division 3 level club teams.  ",
     "experience": 10,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Shehan Paranamanage",
-    "image": "/src/assets/OurTeam/Shehan Paranamanage.jpg",
+    "image": "/assets/OurTeam/Shehan Paranamanage.jpg",
     "designation": "London Premier League Manager",
     "description":"Test",
     "experience": 10,
@@ -81,7 +81,7 @@
   },
   {
     "name": "Trevin Fernando",
-    "image": "/src/assets/OurTeam/Trevin Fernando.jpg",
+    "image": "/assets/OurTeam/Trevin Fernando.jpg",
     "designation": "London League Captain",
     "description":"Test",
     "experience": 10,
@@ -89,7 +89,7 @@
   },
   {
     "name": "Tharushan",
-    "image": "/src/assets/OurTeam/Tharushan Fernando.jpg",
+    "image": "/assets/OurTeam/Tharushan Fernando.jpg",
     "designation": "League Discipline Panel",
     "description":"Test",
     "experience": 10,
@@ -97,7 +97,7 @@
   },
   {
     "name": "Ravindu Nirmal",
-    "image": "/src/assets/OurTeam/Ravindu Nirmal.jpg",
+    "image": "/assets/OurTeam/Ravindu Nirmal.jpg",
     "designation": "League Discipline Panel",
     "description":"Test",
     "experience": 10,
