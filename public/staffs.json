@@ -1,17 +1,17 @@
 [
     {
       "name": "Don Dilshan",
-      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-      "designation": "Head Coach (ICC Level II Coach)",
-      "description":"Our head coach brings a wealth of experience and passion to the game. With a backgroundin professional cricket, he has honed his skills both as a player and as a mentor. His focus ison fostering talent, instilling discipline, and nurturing a love for the sport in every player heworks with. Whether coaching beginners or refining the skills of seasoned athletes, he isdedicated to helping players achieve their full potential on and off the field.",
+      "image": "/src/assets/OurTeam/Dilshan Appuhamy.png",
+      "designation": "Board of Directors / Head Coach & Academy Developer / Major League Captain ",
+      "description":"Our head coach brings a wealth of experience and passion to the game. With a backgroundin professional cricket, he has honed his skills both as a player and as a mentor. His focus is on fostering talent, instilling discipline, and nurturing a love for the sport in every player he works with. Whether coaching beginners or refining the skills of seasoned athletes, he is dedicated to helping players achieve their full potential on and off the field.",
       "experience": 10,
       "ratings": 4.8
     },
     {
       "name": "Ruvindu Gunasekara",
       "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-      "designation": "Coach",
-      "description":"Represented National team of Canada. Specialising in : Batting and Bawling",
+      "designation": "Coach                          ",
+      "description":"Represented National team of Canada. Specialising in : Batting and Bowling",
       "experience": 10,
       "ratings": 4.8
     },
@@ -19,18 +19,89 @@
       "name": "Danuka Pathirana",
       "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
       "designation": "Coach",
-      "description":"Represented National team of Canada & amp. National team of Sri Lanka Under 19. Specialising in : Batting and Bawling. High Performance Program.",
+      "description":"Represented National team of Canada & amp. National team of Sri Lanka Under 19. Specialising in : Batting and Bowling. High Performance Program.",
       "experience": 10,
       "ratings": 4.8
     },
     {
       "name": "Sriram Akam",
-      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+      "image": "/src/assets/OurTeam/Sriram.jpg",
       "designation": "Assistant Coach (ICC Level I Coach)",
-      "description":"Specialising in : Batting for Junior players, Bawlling",
+      "description":"Specialising in : Batting and Bowling coaching for senior players alongside with the head coach",
       "experience": 10,
       "ratings": 4.8
-    }
-    
-    
-  ]
+    },
+  {
+    "name": "Jeewan Krishnajith",
+    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+    "designation": "Junior Coach",
+    "description":"Specialising in overall coaching for juniors. Jeewan also is a registered Level 2 umpire for the Sri Lankan Cricket Board.",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Merita Perera",
+    "image": "/src/assets/OurTeam/Merita Perera.jpg",
+    "designation": "Board Of Directors",
+    "description":"Results-driven Accounting Professional with a strong background in Accounting and Finance complemented by CIMA-UK (Chartered Institute of Management Accountants) qualification. Proven track record of delivering accurate and timely Financial Information, ensuring compliance with Accounting Standards.",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Eshan Fernando",
+    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+    "designation": "Test",
+    "description":"Test",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Vidusha",
+    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
+    "designation": "Test",
+    "description":"Test",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Kalana Kumarawadu",
+    "image": "/src/assets/OurTeam/Kalana Kumarawadu.jpg",
+    "designation": "Digital Marketing Specialist",
+    "description":"An experienced IT professional majoring in software quality assurance along with digital media. Cricket has also been a major part of his life where he was part of the school, university, Sri Lanka division 3 level club teams.  ",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Shehan Paranamanage",
+    "image": "/src/assets/OurTeam/Shehan Paranamanage.jpg",
+    "designation": "London Premier League Manager",
+    "description":"Test",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Trevin Fernando",
+    "image": "/src/assets/OurTeam/Trevin Fernando.jpg",
+    "designation": "London League Captain",
+    "description":"Test",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Tharushan",
+    "image": "/src/assets/OurTeam/Tharushan Fernando.jpg",
+    "designation": "League Discipline Panel",
+    "description":"Test",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Ravindu Nirmal",
+    "image": "/src/assets/OurTeam/Ravindu Nirmal.jpg",
+    "designation": "League Discipline Panel",
+    "description":"Test",
+    "experience": 10,
+    "ratings": 4.8
+  }
+
+]

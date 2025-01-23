@@ -113,17 +113,27 @@ const Navbar = () => {
         </>
       ) : (
         <>
-          <li>
-            <Link to="/signin">Login</Link>
-          </li>
+        <li>
+         <a
+                    href="#news"
+                    className={activeNav === "#news" ? " active_link" : ""}
+                    onClick={() => setActiveNav("#news")}
+                  >
+                    News
+                  </a>
+                  </li>
         </>
       )}
     </>
   );
   return (
     <>
-      <div className="lg:hidden bg-custom-blue flex justify-center items-center py-2">
-        <img className="w-32" src={logo} alt="logo" /> 
+      <div className="lg:hidden bg-custom-blue flex justify-center items-center">
+        {navbarBg !== "transparent" ? (
+                      <img className="w-32" src={rlogo} />
+                    ) : (
+                      <img className="w-32" src={logo} />
+                    )}
       </div>
       <div
         className={`navbar top-0 transition-all ease-out duration-300  text-white lg:fixed z-50 py-3 md:px-8 ${
