@@ -2,7 +2,7 @@
 
     {
       "name": "Ruvindu Gunasekara",
-      "image": "src/assets/OurTeam/RavinduGunasekara.jpg",
+      "image": "/assets/OurTeam/RavinduGunasekara.jpg",
       "designation": "High Performance Specialist",
       "description":"Ravindu is a former national cricket canada player who brings in his vast experience in international arena to WCA. He will be working closely with members to improve performance. ",
       "experience": 10,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Dhanuka Pathirana",
-      "image": "src/assets/OurTeam/DhanukaPathirana.jpg",
+      "image": "/assets/OurTeam/DhanukaPathirana.jpg",
       "designation": "High Performance Specialist",
       "description":"Dhanuka is a former national cricket canada player who brings in his vast experience in international arena to WCA. Danuka has also played for Sri Lanka A. He will be working closely with members to improve performance. ",
       "experience": 10,
@@ -19,7 +19,7 @@
 
   {
     "name": "Trevin Fernando",
-    "image": "src/assets/OurTeam/TrevinFernando.jpg",
+    "image": "/assets/OurTeam/TrevinFernando.jpg",
     "designation": "London Ontario Leagues Captain | Junior Coach",
     "description":"Trevin is a former under Sri Lanka under 20 player and currently professional cricketer. Trevin is the captain appointed to lead the WCA. Trevin will also be working with junior cricketers to shape up their cricketing futures in Canada.",
     "experience": 10,
