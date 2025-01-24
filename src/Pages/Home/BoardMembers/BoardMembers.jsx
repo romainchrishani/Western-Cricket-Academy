@@ -16,7 +16,7 @@ const BoardMembers = () => {
   return (
     <div className="dark:bg-gray-800 pb-10 lg:pb-20" id="boardMembers">
       <Container>
-        <SectionHeader heading={"Board Members"}></SectionHeader>
+        <SectionHeader heading={"Board Members and Management"}></SectionHeader>
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 md:gap-5 lg:gap-5 gap-5 ">
           {staffs.map((staff, index) => (
             <FadeInAnimation key={staff.id} custom={index}>

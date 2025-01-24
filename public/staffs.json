@@ -1,105 +1,27 @@
 [
-    {
-      "name": "Don Dilshan",
-      "image": "/assets/OurTeam/Dilshan Appuhamy.png",
-      "designation": "Board of Directors / Head Coach & Academy Developer / Major League Captain ",
-      "description":"Our head coach brings a wealth of experience and passion to the game. With a backgroundin professional cricket, he has honed his skills both as a player and as a mentor. His focus is on fostering talent, instilling discipline, and nurturing a love for the sport in every player he works with. Whether coaching beginners or refining the skills of seasoned athletes, he is dedicated to helping players achieve their full potential on and off the field.",
-      "experience": 10,
-      "ratings": 4.8
-    },
+
     {
       "name": "Ruvindu Gunasekara",
-      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-      "designation": "Coach                          ",
-      "description":"Represented National team of Canada. Specialising in : Batting and Bowling",
+      "image": "src/assets/OurTeam/RavinduGunasekara.jpg",
+      "designation": "High Performance Specialist",
+      "description":"Ravindu is a former national cricket canada player who brings in his vast experience in international arena to WCA. He will be working closely with members to improve performance. ",
       "experience": 10,
       "ratings": 4.8
     },
     {
-      "name": "Danuka Pathirana",
-      "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-      "designation": "Coach",
-      "description":"Represented National team of Canada & amp. National team of Sri Lanka Under 19. Specialising in : Batting and Bowling. High Performance Program.",
+      "name": "Dhanuka Pathirana",
+      "image": "src/assets/OurTeam/DhanukaPathirana.jpg",
+      "designation": "High Performance Specialist",
+      "description":"Dhanuka is a former national cricket canada player who brings in his vast experience in international arena to WCA. Danuka has also played for Sri Lanka A. He will be working closely with members to improve performance. ",
       "experience": 10,
       "ratings": 4.8
     },
-    {
-      "name": "Sriram Akam",
-      "image": "/assets/OurTeam/Sriram.jpg",
-      "designation": "Assistant Coach (ICC Level I Coach)",
-      "description":"Specialising in : Batting and Bowling coaching for senior players alongside with the head coach",
-      "experience": 10,
-      "ratings": 4.8
-    },
-  {
-    "name": "Jeewan Krishnajith",
-    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-    "designation": "Junior Coach",
-    "description":"Specialising in overall coaching for juniors. Jeewan also is a registered Level 2 umpire for the Sri Lankan Cricket Board.",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Merita Perera",
-    "image": "/assets/OurTeam/Merita Perera.jpg",
-    "designation": "Board Of Directors",
-    "description":"Results-driven Accounting Professional with a strong background in Accounting and Finance complemented by CIMA-UK (Chartered Institute of Management Accountants) qualification. Proven track record of delivering accurate and timely Financial Information, ensuring compliance with Accounting Standards.",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Eshan Fernando",
-    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-    "designation": "Test",
-    "description":"Test",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Vidusha",
-    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-    "designation": "Test",
-    "description":"Test",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Kalana Kumarawadu",
-    "image": "/assets/OurTeam/Kalana Kumarawadu.jpg",
-    "designation": "Digital Marketing Specialist",
-    "description":"An experienced IT professional majoring in software quality assurance along with digital media. Cricket has also been a major part of his life where he was part of the school, university, Sri Lanka division 3 level club teams.  ",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Shehan Paranamanage",
-    "image": "/assets/OurTeam/Shehan Paranamanage.jpg",
-    "designation": "London Premier League Manager",
-    "description":"Test",
-    "experience": 10,
-    "ratings": 4.8
-  },
+
   {
     "name": "Trevin Fernando",
-    "image": "/assets/OurTeam/Trevin Fernando.jpg",
-    "designation": "London League Captain",
-    "description":"Test",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Tharushan",
-    "image": "/assets/OurTeam/Tharushan Fernando.jpg",
-    "designation": "League Discipline Panel",
-    "description":"Test",
-    "experience": 10,
-    "ratings": 4.8
-  },
-  {
-    "name": "Ravindu Nirmal",
-    "image": "/assets/OurTeam/Ravindu Nirmal.jpg",
-    "designation": "League Discipline Panel",
-    "description":"Test",
+    "image": "src/assets/OurTeam/TrevinFernando.jpg",
+    "designation": "London Ontario Leagues Captain | Junior Coach",
+    "description":"Trevin is a former under Sri Lanka under 20 player and currently professional cricketer. Trevin is the captain appointed to lead the WCA. Trevin will also be working with junior cricketers to shape up their cricketing futures in Canada.",
     "experience": 10,
     "ratings": 4.8
   }

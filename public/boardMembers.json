@@ -1,16 +1,16 @@
 [
   {
-    "name": "Don Dilshan",
+    "name": "Don Dilshan Appuhamy",
     "image": "/assets/OurTeam/Dilshan Appuhamy.png",
-    "designation": "Board of Directors / Head Coach & Academy Developer / Major League Captain ",
-    "description":"Our head coach brings a wealth of experience and passion to the game. With a backgroundin professional cricket, he has honed his skills both as a player and as a mentor. His focus is on fostering talent, instilling discipline, and nurturing a love for the sport in every player he works with. Whether coaching beginners or refining the skills of seasoned athletes, he is dedicated to helping players achieve their full potential on and off the field.",
+    "designation": "Director and Founder | Head Coach & Academy Developer",
+    "description":"Our head coach brings a wealth of experience and passion to the game. With a background in professional cricket, he has honed his skills both as a player and as a mentor. His focus is on fostering talent, instilling discipline, and nurturing a love for the sport in every player he works with. Whether coaching beginners or refining the skills of seasoned athletes, he is dedicated to helping players achieve their full potential on and off the field.",
     "experience": 10,
     "ratings": 4.8
   },
   {
-    "name": "Merita Perera",
-    "image": "/assets/OurTeam/Merita Perera.jpg",
-    "designation": "Board Of Directors",
+    "name": "Merita Perera (ACMA, CGMA)",
+    "image": "/assets/OurTeam/MeritaPerera.jpg",
+    "designation": "Director and Founder | Treasurer",
     "description":"Results-driven Accounting Professional with a strong background in Accounting and Finance complemented by CIMA-UK (Chartered Institute of Management Accountants) qualification. Proven track record of delivering accurate and timely Financial Information, ensuring compliance with Accounting Standards.",
     "experience": 10,
     "ratings": 4.8
@@ -18,16 +18,40 @@
   {
     "name": "Sriram Akam",
     "image": "/assets/OurTeam/Sriram.jpg",
-    "designation": "Assistant Coach (ICC Level I Coach)",
-    "description":"Specialising in : Batting and Bowling coaching for senior players alongside with the head coach",
+    "designation": "Director",
+    "description":"Sriram is a chemical engineer and currently working in a reputed company. Sriram plays a major role in the WCA by providing his support to carry out the day to day activities. ",
     "experience": 10,
     "ratings": 4.8
   },
   {
     "name": "Eshan Fernando",
-    "image": "https://i.ibb.co/h8zN7hc/pngtree-businessman-avatar-icon-flat-style-png-image-1917273.jpg",
-    "designation": "Test",
-    "description":"Test",
+    "image": "/assets/OurTeam/EshanFernando.jpg",
+    "designation": "Director",
+    "description":"Eshan is experienced individual in the security tech field and currently working as an Area manager. Eshan has also been part of under 19 Ontario team. He plays a major role in WCA as he is involved in planing and coordinating future programs.",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Jeewan Thilakarathna",
+    "image": "/assets/OurTeam/JeewanThilakarathna.jpg",
+    "designation": "Junior Coach and Developer | League coordinator",
+    "description":"Jeewan plays a major role in WCA by acting as the league coordinator. Jeewan is also a registered Level 2 umpire of Sri Lanka Cricket. Jeewan will be helping to develop the junior cricketers and will be focusing on developing junior cricket in schools in London, Ontario. ",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Vidusha Shavinda",
+    "image": "/assets/OurTeam/VidushaShavinda.jpg",
+    "designation": "Human Resources ",
+    "description":"Vidusha is an Undergraduate at York University , Toronto. He is contributing to WCA in HR and administration. ",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Kalana Kumarawadu",
+    "image": "/assets/OurTeam/Kalana Kumarawadu.jpg",
+    "designation": "Digital Marketing Specialist",
+    "description":"An experienced IT professional majoring in software quality assurance along with digital media. Cricket has also been a major part of his life where he was part of the school, university, Sri Lanka division 3 level club teams.",
     "experience": 10,
     "ratings": 4.8
   }

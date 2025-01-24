@@ -25,19 +25,19 @@ const Footer = () => {
             Let's Conquer Together
           </p>
           <div className="flex justify-center space-x-4 mt-5 py-4">
-            <Link to="#">
+            <Link to="https://www.facebook.com/profile.php?id=61566120035827">
               <img className="w-8" src={facebook} alt="" />
             </Link>
-            <Link to="#">
+            <Link to="https://www.instagram.com/wcalondon?igsh=MTh4cmxyb2d3MHJ2dg==">
               <img className="w-8" src={instagram} alt="" />
             </Link>
             <Link to="#">
               <img className="w-8" src={whatsapp} alt="" />
             </Link>
-            <Link to="#">
+            <Link to="https://www.linkedin.com/company/western-cricket-academy">
               <img className="w-8" src={linkedin} alt="" />
             </Link>
-            <Link to="#">
+            <Link to="https://www.youtube.com/@WesternCricketAcademy">
               <img className="w-8" src={youtube} alt="" />
             </Link>
           </div>
