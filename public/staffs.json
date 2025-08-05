@@ -24,6 +24,22 @@
     "description":"Trevin is a former under Sri Lanka under 20 player and currently professional cricketer. Trevin is the captain appointed to lead the WCA. Trevin will also be working with junior cricketers to shape up their cricketing futures in Canada.",
     "experience": 10,
     "ratings": 4.8
+  },
+  {
+    "name": "Ravindu Mahanama",
+    "image": "/assets/OurTeam/RavinduNirmal.jpg",
+    "designation": "Assistant Coach",
+    "description":"Ravindu brings a unique blend of professional discipline and sporting passion to our academy. With over 5 years of experience in the software industry and his current role as an Assistant Operations Manager, he understands teamwork, strategy, and leadership at a deep level. A dedicated all-rounder with years of cricketing experience, Ravindu is committed to helping players develop both their technical skills and game sense.",
+    "experience": 10,
+    "ratings": 4.8
+  },
+  {
+    "name": "Samudu Wijesinghe",
+    "image": "/assets/OurTeam/SamuduW.jpg",
+    "designation": "Junior assistant Coach & London Premier League  Mentor",
+    "description":"A lifelong cricketer, Samudu began his journey at age 12 and proudly captained Kingswood College (Sri Lanka) at U13, U15, U17, and U19 levels. Now based in London, Ontario, he plays an important role at Western Cricket Academy by:\n\t•\tAssisting in structured coaching and training sessions\n\t•\tMentoring youth in skill, discipline, and character development\n\n\t•\tSupporting strategic match planning and player performance\n\t•\tLeading community and school outreach programs\n\nSamudu’s leadership and international cricketing background help shape a strong, positive future for our academy players",
+    "experience": 10,
+    "ratings": 4.8
   }
 
 ]
